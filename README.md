@@ -1,4 +1,3 @@
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3e84a9f4-a134-4078-ad03-928ce494d0aa/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3e84a9f4-a134-4078-ad03-928ce494d0aa/Untitled.png)
 
 ## 🧐 프로젝트 개요
 
