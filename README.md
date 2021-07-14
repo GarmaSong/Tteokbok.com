@@ -1,3 +1,20 @@
+## 📆 프로젝트 기간
+- 2021.05.24 ~ 2021.06.04 (약 2주)
+
+## 📌 Keywords
+- 자체프로젝트 | 크라우드펀딩 | 상세페이지 | 모바일 반응형
+
+
+## 🔨 사용한 기술 스택
+- React | Hooks | Styled-components | Github | Trello
+
+## 👪 팀원구성
+- Front-end: 노선경, 송가람, 임유진
+- Back-end:  이승무, 최준식
+
+## 🔗 프로젝트 링크
+- [블로그](https://velog.io/@sgr2134/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D-1%EB%B6%80) ,[프로젝트 영상](https://www.youtube.com/watch?v=OAnJsVrR2Is&t=107s), [떡볶닷컴](http://tteokbok.com/)
+
 
 ## 🧐 프로젝트 개요
 
